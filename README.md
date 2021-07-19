@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
- 🌱 I’m currently learning **Full Stack development at Upgrade Hub**
+ 🌱  I’m currently learning **Full Stack development at Upgrade Hub**
 
- 👨‍💻 All of my projects are available at [https://andres-portfolio.web.app/](https://andres-portfolio.web.app/)
+ 👨‍💻  All of my projects are available at [https://andres-portfolio.web.app/](https://andres-portfolio.web.app/)
 
- 💬 Ask me about **fabregat.andres@gmail.com**
+ 💬  Ask me about **fabregat.andres@gmail.com**
 
- 📄 Know about my experiences [https://www.linkedin.com/in/andres-fabregat-nogueras/](https://www.linkedin.com/in/andres-fabregat-nogueras/)
+ 📄  Know about my experiences [https://www.linkedin.com/in/andres-fabregat-nogueras/](https://www.linkedin.com/in/andres-fabregat-nogueras/)
+ 
+ </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
