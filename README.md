@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Spain</h3>
 <div align="center">
 
  🌱  I’m currently learning **Full Stack development at Upgrade Hub**
