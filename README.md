@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 <div align="center">
 
- 🌱  I’m currently learning **Full Stack development at Upgrade Hub**
+ 🌱  I'm junior **Full Stack developer**
 
  👨‍💻  All of my projects are available at [https://andres-portfolio.web.app/](https://andres-portfolio.web.app/)
 
