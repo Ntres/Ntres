@@ -4,7 +4,7 @@
 
  🌱  I'm junior **Full Stack developer**
 
- 👨‍💻  All of my projects are available at [https://andres-portfolio.web.app/](https://andres-portfolio.web.app/)
+ 👨‍💻  Some of my projects are available at [https://andres-portfolio.web.app/](https://andres-portfolio.web.app/)
 
  💬  Ask me about **fabregat.andres@gmail.com**
 
